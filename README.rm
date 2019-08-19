@@ -8,3 +8,16 @@ Capacitor
 Use of:
 Lazy Loading
 Unit Testing
+
+How to run project:
+$ cd travelDluxMagnetApp
+$ npm i
+
+Local Server deploy
+$ ionic serve 
+
+Capacitor device deploy
+$ npx cap add android
+$ npx cap add ios
+
+
