@@ -9,6 +9,7 @@ Firebase
 Use of:
 Lazy Loading
 Unit Testing
+Prettier code formatter file
 
 How to run project:
 $ cd travelDluxMagnetApp
