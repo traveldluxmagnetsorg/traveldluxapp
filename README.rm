@@ -5,6 +5,7 @@ Angular 8
 RXJS
 Capacitor
 Firebase
+Amplitude (for app analytics and user study)
 
 Use of:
 Lazy Loading
