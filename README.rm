@@ -4,7 +4,7 @@ Ionic 4
 Angular 8
 RXJS
 Capacitor
-Firebase
+Firebase || GraphQL (Serverless with Graphcool)
 Amplitude (for app analytics and user study)
 
 Use of:
