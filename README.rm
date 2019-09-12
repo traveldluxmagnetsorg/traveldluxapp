@@ -11,6 +11,8 @@ Use of:
 Lazy Loading
 Unit Testing
 Prettier code formatter file
+Webpack
+Environment icon differentiation
 
 How to run project:
 $ cd travelDluxMagnetApp
