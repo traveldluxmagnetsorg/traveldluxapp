@@ -5,6 +5,7 @@ Angular 8
 RXJS
 Capacitor
 Firebase || GraphQL (Serverless with Graphcool)
+Apollo (for Graphql)
 Amplitude (for app analytics and user study)
 
 Use of:
